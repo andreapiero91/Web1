@@ -1,6 +1,6 @@
 ESERCIZIO 1 
 
-L'esercizio uno è stato svolto in due versioni. Nella prima ("es1_4_marzo") sono stati sviluppati i seguenti argomenti
+L'esercizio uno è stato svolto in due versioni. Nella prima ("es1_4_marzo.js") sono stati sviluppati i seguenti argomenti
 
         - Definire un vettore
         - Copiare un vettore
@@ -8,7 +8,7 @@ L'esercizio uno è stato svolto in due versioni. Nella prima ("es1_4_marzo") son
         - Iterazione sul vettore (of)
         - Aggiungere nuovi elementi del vettore 
         
-La seconda versione ("es1_4_marzo_sort") rispetto alla prima, approfondisce i seguenti argomenti:
+La seconda versione ("es1_4_marzo_sort.js") rispetto alla prima, approfondisce i seguenti argomenti:
 
         - Ordinamento di un vettore di Interi
         - Estrazione dalla testa dei vettori
@@ -25,7 +25,7 @@ La seconda versione ("es1_4_marzo_sort") rispetto alla prima, approfondisce i se
 
 ESERCIZIO 3 
 
-L'esercizio 3, viene anche questo svolto in due modi (" Es_3_8_marzo" e "Es_3_8_marzo_funzionale") introducendo i seguenti argomenti
+L'esercizio 3, viene anche questo svolto in due modi (" Es_3_8_marzo.js" e "Es_3_8_marzo_funzionale.js") introducendo i seguenti argomenti
 
         - Come importare una libreria
         - La Funzione Costruttore per creare un nuovo oggetto
