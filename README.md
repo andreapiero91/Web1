@@ -6,6 +6,9 @@
       -> Javascript: introduzione
       ->Javascript: oggetti e funzioni
      
-     - Esercizi
+     - Esercizi visti a lezione
       -> Esempi_lezione/1_Esempi_Js_base
       -> Esempi_lezione/2_Oggetti e Funzioni in JS
+      
+     - Esercitazione 
+       -> Esempi/Js_base
