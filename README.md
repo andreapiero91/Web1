@@ -12,3 +12,13 @@
       
      - Esercitazione 
        -> Esempi/Js_base
+       
+ 
+ #### SECONDA SETTIMANA
+    - TEORIA
+        -> 	JavaScript: callback e programmazione funzionale
+        
+    - Esercitazione
+        -> Esempi/Js_base (esercizio 3 con programmazione funzionale)
+        -> Esempi/js_asincrono (esercizio 1)
+        
