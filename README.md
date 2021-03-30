@@ -21,4 +21,4 @@
     - Esercitazione
         -> Esempi/Js_base (esercizio 3 con programmazione funzionale)
         -> Esempi/js_asincrono (esercizio 1)
-        
+        -> Esempi/js_asincrono (esercizio 2, gestione db e promise)
