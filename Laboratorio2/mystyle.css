@@ -1,0 +1,57 @@
+
+/******* ELEMENTI *******/
+
+footer {                        /*Footer deve essere: colore del testo blu e posizione assoluta rispetto body*/
+        color:mediumblue;
+        position: absolute;
+        right:0;
+        bottom:0;
+
+}
+
+aside, main{
+
+    padding:6rem;  /* creo intorno a aside e main pari a 6rem (riferito dimensione main page)*/
+}
+
+
+h1 {
+    margin-left:1rem;  /* creo margin left, per spostare un po a sx -> margin crea spazio fuori bordo */
+}                      /* rem proporzionale a font-size base pagina */
+
+
+/******* CLASSI *******/
+
+.login {                /*Colloco a destra(float) e dico che l'omino deve essere bianco*/
+    float: right;
+    color: white;
+}
+
+
+.grey {
+    background-color:white;
+}
+
+.importante { color:red;  /* se ho task importante lo coloro di rosso in grassetto */
+font-weight: bold;} 
+
+/* Bottone basso a dx */
+
+.bottone_verde {                /* CSS  position: absolute -> viene rimosso dal flusso del documento ed è posizionato in base ai valori forniti con le proprietà top, left, bottom o right */
+                                /*Il posizionamento assoluto (position: absolute;) avviene sempre rispetto al box contenitore dell’elemento.*/
+    position: absolute;
+    right: 0;                   /*basso a dx dentro a main*/
+    bottom: 0;
+    z-index: 1;                 /* ho problemi di sovrapposizione degli elementi*/
+    margin: 0 1.5rem 1.5rem 0;
+}
+
+
+.max_altezza{
+    min-height: 100vh;   /*comunque la "riga" contenente barra e tabella deve essere lunga almeno 100vh, ovvero 100 % finestra */
+}
+
+.list-group-item.active {               /* di default list-group è blu, ma lo voglio dello stesso colore del navbar */
+    background-color: #28a745;
+    border-color: #28a745;
+}
